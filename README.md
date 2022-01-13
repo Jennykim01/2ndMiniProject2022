@@ -5,7 +5,7 @@ It includes step by step procedures on how to clean up data until having tidy da
 Data Set\
 Human Activity Recognition Using Smartphones 
 
-List of files
+List of files\
 features.txt :561 observations and 2 variable\
 subject_train.txt : 7352 observations and 1 variable\
 X_train.txt : 7352 observations and 561 variables\
